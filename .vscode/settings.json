@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "R:\\Work\\Anaconda\\envs\\newenvt\\python.exe",
+    "python.pythonPath": "R:\\Work\\Anaconda\\envs\\tensenv\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
 }
